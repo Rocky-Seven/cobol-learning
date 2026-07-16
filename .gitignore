@@ -1,0 +1,14 @@
+# GnuCOBOLのコンパイル成果物
+*.o
+*.so
+*.int
+*.gnt
+*.lst
+
+# 実行時に生成される出力ファイル
+low_balance.csv
+low_balance.dat
+
+# 実行ファイル（各ディレクトリのプログラム本体と同名の拡張子なしバイナリ）
+bank_account
+bank_account_management
