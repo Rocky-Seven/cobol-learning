@@ -8,8 +8,10 @@ my-studies.org のCOBOL関連記事に対応するソースコードを、記事
 
 ```
 cobol-learning/
-├── README.md
-└── 01_bank-account-management/
+├── 00_hello-cobol/          ← 第1回
+├── 00_variables-and-io/     ← 第2回
+├── 00_conditions-and-loops/ ← 第3回
+└── 01_bank-account-management/  ← 既存  
     ├── README.md（概要・コンパイル方法・実行結果・計算量）
     ├── bank_account.cob
     └── accounts.csv（サンプル入力）
