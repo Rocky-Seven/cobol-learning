@@ -8,8 +8,15 @@
 
 1. このリポジトリを Codespaces で開く
    - `Code` ボタン → `Codespaces` タブ → `Create codespace on main`
-   - `.devcontainer/devcontainer.json` に従って GnuCOBOL が自動インストールされます
-2. ターミナルで以下を実行してコンパイル・実行します
+   - `.devcontainer/devcontainer.json` に従って、Ubuntuのベース環境とCOBOL用のVS Code拡張機能が用意されます
+2. ターミナルでGnuCOBOLをインストールします（新規リポジトリでも既存リポジトリへの追記でも、この手順は同じです）
+
+```bash
+sudo apt-get update
+sudo apt-get install -y gnucobol4
+```
+
+3. コンパイル・実行します
 
 ```bash
 cd 00_01_hello-cobol
