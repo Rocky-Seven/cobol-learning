@@ -29,7 +29,7 @@ cobol-learning/
 | --- | --- | --- |
 | `00_01_hello-cobol/` | COBOLに触れてみる（環境構築〜Hello, World!） | [新人SEのためのCOBOL入門 第1回](https://my-studies.org/introduction-to-cobol-for-new-system-engineers-1/) |
 | `00_02_variables-and-io/` | 変数とデータの型（PIC句・ACCEPT） | [新人SEのためのCOBOL入門 第2回](https://my-studies.org/introduction-to-cobol-for-new-system-engineers-2/) |
-| `00_03_conditions-and-loops/` | 条件分岐と繰り返し（IF・PERFORM） | 新人SEのためのCOBOL入門 第3回 |
+| `00_03_conditions-and-loops/` | 条件分岐と繰り返し（IF・PERFORM） | [新人SEのためのCOBOL入門 第3回](https://my-studies.org/introduction-to-cobol-for-new-system-engineers-3/) |
 | `01_bank-account-management/` | 銀行口座管理の模擬プログラム（残高抽出処理） | [COBOLでつくる「銀行口座管理の模擬プログラム」](https://my-studies.org/a-bank-account-management-simulation-program-created-using-cobol/) |
 
 ## 実行環境
