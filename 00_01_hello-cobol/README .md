@@ -13,6 +13,7 @@
 
 ```bash
 sudo apt-get update
+sudo apt-get upgrade -y
 sudo apt-get install -y gnucobol4
 ```
 
@@ -20,7 +21,7 @@ sudo apt-get install -y gnucobol4
 
 ```bash
 cd 00_01_hello-cobol
-cobc -x hello.cob
+cobc -x -free hello.cob
 ./hello
 ```
 
